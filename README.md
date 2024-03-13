@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 - 👨🏻‍💻 Full stack web developer
-- 🌏 site : [https://my-portifolio-sooty.vercel.app/pt)](https://my-portifolio-sooty.vercel.app/pt
+- 🌏 site : https://my-portifolio-sooty.vercel.app/pt)](https://my-portifolio-sooty.vercel.app/pt
 - 📨 contact me : contato.gallodev@gmail.com
 - 📍 Praia Grande, SP 
 
